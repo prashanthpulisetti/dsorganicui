@@ -1,0 +1,20 @@
+.sign{
+    background-color:rgba(187, 187, 187, 0.918);
+    border:3px solid blue;
+    color:rgb(0, 0, 0);
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 100px;
+    padding: 0;
+    font-size:1em;
+}
+#hr{background-color: blue;
+     border-width: 1px;
+}
+#field{
+    color: red;
+    text-align: right;
+}
+#h1{
+    text-align: left;
+}

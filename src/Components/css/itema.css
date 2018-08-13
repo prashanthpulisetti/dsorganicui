@@ -1,0 +1,14 @@
+.body{
+    padding-top: 10px;
+    text-align: justify;
+    color: black;
+    text-shadow: 2px;
+    font-display: optional;
+    
+}
+.body p{
+    background-color: lavenderblush;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
